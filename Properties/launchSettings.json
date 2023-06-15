@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "OAI_AzureFunctions_Example_DotNet7": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7173",
+      "launchBrowser": false
+    }
+  }
+}
